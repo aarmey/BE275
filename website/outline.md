@@ -67,7 +67,7 @@ layout: page
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](http://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](http://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
 - Lab: Implementation of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582), due Nov 11 at 5 pm
-- Final project proposals due 11/5 at 5 pm
+- [Final project proposals due Nov 5 at 5 pm](https://ccle.ucla.edu/mod/assign/view.php?id=4115441)
 
 ### Week 7, Nov 8 – 12
 

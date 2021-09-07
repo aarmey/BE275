@@ -9,7 +9,7 @@ layout: page
   - Reading: [Can a biologist fix a radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
   - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](http://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
 
-- Lab: Programming and Git Primer, due 1/13 at 11:59 pm
+- Lab: Programming and Git Primer, due Sept 30 at 5 pm
   - Listening: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
   - Listening: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 
@@ -22,7 +22,7 @@ layout: page
   - Listening: [Linear Digressions: Convex (and non-convex) optimization](http://lineardigressions.com/episodes/2018/12/16/convex-and-non-convex-optimization)
 - [Lecture 3: Fitting & Regression Redux, Regularization](../public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
-- Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due 1/20 at 11:59 pm
+- Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 7 at 5 pm
 
 ### Week 2, Oct 4 – 8
 
@@ -30,7 +30,7 @@ layout: page
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf) ([Recording](https://youtu.be/Rh2SdM2_IIg))
-- Lab: Implementation of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997), due 1/29 at 11:59 pm
+- Lab: Implementation of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997), due Oct 14 at 5 pm
 
 ### Week 3, Oct 11 – 15
 
@@ -45,7 +45,7 @@ layout: page
 
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
 - [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf)
-- Lab: Implementation of [Cosgrove et al.](http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due 2/5 at 11:59 pm
+- Lab: Implementation of [Cosgrove et al.](http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 28 at 5 pm
 
 ### Week 5, Oct 25 – 29
 
@@ -64,13 +64,13 @@ layout: page
   - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](http://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](http://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
-- Lab: Implementation of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582), due 2/19 at 2:00 pm
-- [Final project proposals due 11/5 at 5 pm](https://ccle.ucla.edu/mod/assign/view.php?id=3603289)
+- Lab: Implementation of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582), due Nov 11 at 5 pm
+- Final project proposals due 11/5 at 5 pm
 
 ### Week 7, Nov 8 – 12
 
 - Lecture: Finish hidden Markov models.
-- Lab: Implementation of HMMs for heart rate monitor wearable, due 2/26 at 2:00 pm pm
+- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 18 at 5 pm
 
 ### Week 8, Nov 15 – 19
 
@@ -86,7 +86,7 @@ layout: page
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](http://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](http://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
-- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due 3/16 at 11:59 pm
+- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 9 at 5 pm
 
 ### Week 10, Nov 29 – Dec 3
 

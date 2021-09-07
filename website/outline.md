@@ -10,6 +10,8 @@ layout: page
   - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](http://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
 
 - Lab: Programming and Git Primer, due Sept 30 at 5 pm
+  - [Starting notebook](https://github.com/aarmey/BE275/blob/main/homework/Week1-Introduction.ipynb)
+  - [Submission repository link](https://classroom.github.com/a/vziywe6k)
   - Listening: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
   - Listening: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 

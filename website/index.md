@@ -8,14 +8,14 @@ BIOENGR 275: Machine learning & data-driven modeling in bioengineering
 
 Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
-Class Hours: Lecture: Tuesdays/Thursdays, 2:00 – 3:50pm (Zoom link on CCLE)  
-Lab Section: Fridays, 2:00 – 3:50 pm (Zoom link on CCLE)
+Lecture: Boelter Hall 5273, Tuesdays/Thursdays, 2:00 – 3:50pm  
+Lab Section: Public Affairs Building 2238, Fridays, 2:00 – 3:50 pm
 
 Teaching Assistant: Nilay Shah (<nshah76@ucla.edu>)
 
 Office Hours:
 
-- Prof. Meyer: Available at the end of lecture, [on Slack](https://be175.slack.com), or [by appointment](https://calendly.com/asmlab/office-hours)
+- Prof. Meyer: Available at the end of lecture, by email (above), [on the CCLE forum](https://ccle.ucla.edu/mod/forum/view.php?id=3985819), or [by appointment on Zoom](https://calendly.com/asmlab/be-275-office-hours)
 - TA: By appointment
 
 Website: <https://aarmey.github.io/BE275/>

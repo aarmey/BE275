@@ -22,7 +22,7 @@ jobs:
         make
         cd website && bundle exec jekyll build
     - name: Proof HTML
-      run: cd website && bundle exec htmlproofer --check-html --url-ignore "/ml-for-bioe/" --http-status-ignore "412, 400" --assume-extension ./_site
+      run: cd website && bundle exec htmlproofer --check-html --url-ignore "/BE275/" --http-status-ignore "412, 400" --assume-extension ./_site
     - name: Upload lecture notes
       uses: actions/upload-artifact@v2
       with:

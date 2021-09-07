@@ -3,7 +3,7 @@ title: Week 1, Lecture 1 - Introduction, statistics review
 author: Aaron Meyer
 ---
 
-# BIOENGR C175/C275: Machine learning & data-driven modeling in bioengineering
+# BIOENGR 275: Machine learning & data-driven modeling in bioengineering
 
 ## Lecture:
 
@@ -15,7 +15,7 @@ author: Aaron Meyer
 - Fridays, 2:00–3:50pm
 - Zoom
 
-<https://aarmey.github.io/ml-for-bioe/>
+<https://aarmey.github.io/BE275/>
 
 # Lecture Slides
 

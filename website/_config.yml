@@ -2,18 +2,18 @@
 permalink:        pretty
 
 # Setup
-title:            Bioengr C175/C275
+title:            Bioengr 275
 tagline:          'ML in BE'
 description:      Machine learning & data-driven modeling in bioengineering
-url:              https://aarmey.github.io/ml-for-bioe/
-baseurl:          /ml-for-bioe/
+url:              https://aarmey.github.io/BE275/
+baseurl:          /BE275/
 
 author:
   name:           'Aaron Meyer'
   url:            http://asmlab.org
 
 github:
-  repo:           https://github.com/aarmey/ml-for-bioe
+  repo:           https://github.com/aarmey/BE275
 
 exclude:
   - Gemfile

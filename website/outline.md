@@ -70,7 +70,7 @@ layout: page
 ### Week 7, Nov 8 – 12
 
 - Lecture: Finish hidden Markov models.
-- Lab: Implementation of HMMs for heart rate monitor wearable, due 2/26 at 2:00 pm pm ([clone link](https://classroom.github.com/a/BmDiDEBQ))
+- Lab: Implementation of HMMs for heart rate monitor wearable, due 2/26 at 2:00 pm pm
 
 ### Week 8, Nov 15 – 19
 
@@ -86,10 +86,10 @@ layout: page
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](http://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](http://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
-- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due 3/16 at 11:59 pm ([clone link](https://classroom.github.com/a/hbaBUaC2))
+- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due 3/16 at 11:59 pm
 
 ### Week 10, Nov 29 – Dec 3
 
 - Lecture: Project presentations
 - Lab: Further project implementation
-- Final Project, due Dec 9 at noon (submit through project Github repository—[create here](https://classroom.github.com/g/VxOH30OF))
+- Final Project, due Dec 9 at noon (submit through project Github repository)

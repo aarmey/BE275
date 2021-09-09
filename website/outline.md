@@ -34,7 +34,7 @@ layout: page
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf) ([Recording](https://youtu.be/Rh2SdM2_IIg))
-- Lab: Implementation of [Stone et al.](http://www.sciencedirect.com/science/article/pii/S0006349501758997), due Oct 14 at 5 pm
+- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 14 at 5 pm
   - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
   - [Submission repository link](https://classroom.github.com/a/kEII3aMy)
 

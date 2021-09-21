@@ -8,12 +8,12 @@ author: Aaron Meyer
 ## Lecture:
 
 - Tuesdays/Thursdays 2:00–3:50pm
-- Zoom
+- Boelter Hall 5273
 
 ## Lab
 
 - Fridays, 2:00–3:50pm
-- Zoom
+- Public Affairs Building 2238
 
 <https://aarmey.github.io/BE275/>
 
@@ -34,7 +34,7 @@ author: Aaron Meyer
 
 ## Prof. Meyer
 
-- Friday 11:00-11:50am in Eng V 4121G or by appointment
+- By appointment on Zoom: <https://calendly.com/asmlab/be-275-office-hours>
 - I will usually also stick around after class and am happy to answer questions.
 
 ## TAs

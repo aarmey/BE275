@@ -81,7 +81,7 @@ By the end of the course you will learn how to:
 ## Where
 
 - Fridays, 2:00-3:50pm
-- Zoom
+- Public Affairs Building 2238
 
 ## What
 

@@ -1,5 +1,5 @@
 ---
-title: Syllabus - Fall 2021
+title: Syllabus - Fall 2022
 layout: page
 ---
 UCLA Department of Bioengineering
@@ -9,9 +9,9 @@ BIOENGR 275: Machine learning & data-driven modeling in bioengineering
 Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
 Lecture: Boelter Hall 5273, Tuesdays/Thursdays, 2:00 – 3:50pm  
-Lab Section: Public Affairs Building 2238, Fridays, 2:00 – 3:50 pm
+Lab Section: Boelter Hall 4413, Fridays, 2:00 – 3:50 pm
 
-Teaching Assistant: Nilay Shah (<nshah76@ucla.edu>)
+Teaching Assistant: Brian Orcutt-Jahns (<orcuttjahnsbrian@gmail.com>)
 
 Office Hours:
 

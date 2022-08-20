@@ -12,7 +12,7 @@ In this project, you have two options for the general route you can take:
 
 Here are a few ideas. These may serve as an examples, or you are also welcome to adopt one of these:
 
-- Reimplement some of the analysis of SARS-CoV-2 antibody effectiveness in [Zohar et al](https://doi.org/10.1016/j.cell.2020.10.052) or [Kaplonek et al](https://doi.org/10.1126/sciimmunol.abj2901).
+- Reimplement some of the analysis of SARS-CoV-2 antibody effectiveness in [Zohar et al](https://doi.org/10.1016/j.cell.2020.10.052) or [Kaplonek et al](https://www.science.org/doi/10.1126/sciimmunol.abj2901).
 - Explore [Wang et al](https://doi.org/10.1038/s41586-021-03631-y) or [Chang et al](https://doi.org/10.1101/2021.01.27.21250559) for patterns within COVID-19-induced autoantibodies.
 - Many interesting datasets are listed in the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/).
 - Machine learning competitions, such as the [DREAM Challenges](https://dreamchallenges.org), [Kaggle](https://www.kaggle.com), and [DrivenData](https://www.drivendata.org), may have relevant challenges and pre-assembled datasets.

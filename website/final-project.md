@@ -14,8 +14,8 @@ Here are a few ideas. These may serve as an examples, or you are also welcome to
 
 - Reimplement some of the analysis of SARS-CoV-2 antibody effectiveness in [Zohar et al](https://doi.org/10.1016/j.cell.2020.10.052) or [Kaplonek et al](https://doi.org/10.1126/sciimmunol.abj2901).
 - Explore [Wang et al](https://doi.org/10.1038/s41586-021-03631-y) or [Chang et al](https://doi.org/10.1101/2021.01.27.21250559) for patterns within COVID-19-induced autoantibodies.
-- Many interesting datasets are listed in the [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/).
-- Machine learning competitions, such as the [DREAM Challenges](http://dreamchallenges.org), [Kaggle](https://www.kaggle.com), and [DrivenData](https://www.drivendata.org), may have relevant challenges and pre-assembled datasets.
+- Many interesting datasets are listed in the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/).
+- Machine learning competitions, such as the [DREAM Challenges](https://dreamchallenges.org), [Kaggle](https://www.kaggle.com), and [DrivenData](https://www.drivendata.org), may have relevant challenges and pre-assembled datasets.
 - You are welcome to use a dataset from your own research. There is no problem keeping the data confidential, and this does not create any issues related to authorship. If you chose to do so, you should chose a new analysis approach that has not yet been performed.
 
 There are no restrictions on the programming language or packages you use. You may work alone or as a pair on the project. If in a team, your proposal, final project, and final presentation should cover how the project was divided.

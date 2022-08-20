@@ -20,7 +20,7 @@ layout: page
 - [Lecture 2: Fitting & Regression](../public/Wk1-Lecture2.pdf)
   - [Example Notebook](../public/examples/OLS-Example.ipynb)
   - Listening: [Linear Digressions: The assumptions of ordinary least squares](https://lineardigressions.com/episodes/2019/1/12/the-assumptions-of-ordinary-least-squares)
-  - Reading: [Points of Significance: Simple linear regression](http://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)
+  - Reading: [Points of Significance: Simple linear regression](https://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)
   - Listening: [Linear Digressions: Convex (and non-convex) optimization](https://lineardigressions.com/episodes/2018/12/16/convex-and-non-convex-optimization)
 - [Lecture 3: Fitting & Regression Redux, Regularization](../public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
@@ -51,7 +51,7 @@ layout: page
 
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
 - [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf)
-- Lab: Implementation of [Cosgrove et al.](http://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 28 at 5 pm
+- Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 28 at 5 pm
   - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
   - [Submission repository link](https://classroom.github.com/a/-uZybypT)
 
@@ -72,7 +72,7 @@ layout: page
   - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
-- Lab: Implementation of [Perelson et al.](http://science.sciencemag.org/content/271/5255/1582), due Nov 11 at 5 pm
+- Lab: Implementation of [Perelson et al.](https://science.sciencemag.org/content/271/5255/1582), due Nov 11 at 5 pm
   - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
   - [Submission repository link](https://classroom.github.com/a/B7YGrBlQ)
 - [Final project proposals due Nov 5 at 5 pm](https://ccle.ucla.edu/mod/assign/view.php?id=4115441)

@@ -191,7 +191,7 @@ $$Y = TB + E$$
 
 - sklearn does not implement PCR directly
 - Can be applied by chaining `sklearn.decomposition.PCA` and `sklearn.linear_model.LinearRegression`
-- See: <http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html>
+- See: <https://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html>
 
 ## PLSR
 
@@ -201,7 +201,7 @@ $$Y = TB + E$$
 	- `PLSRegression(n_components=3)` to set number of components on setup
 	- Or `M.n_components = 3` after setup
 
-<http://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html>
+<https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html>
 
 # Summary
 

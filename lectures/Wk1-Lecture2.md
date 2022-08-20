@@ -413,4 +413,4 @@ sp.optimize.least_squares(ls_obj_k1, 1., args=(X,Y))
 # Further Reading
 
 - [Computer Age Statistical Inference, Chapter 8](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
-- [sklearn: Linear Models](http://scikit-learn.org/stable/modules/linear_model.html)
+- [sklearn: Linear Models](https://scikit-learn.org/stable/modules/linear_model.html)

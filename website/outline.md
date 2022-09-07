@@ -28,7 +28,7 @@ layout: page
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 7 at 5 pm
   - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/)
+  - [Submission repository link](https://classroom.github.com/a/3LPFxns6)
 
 ### Week 2, Oct 3 – 7
 

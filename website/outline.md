@@ -86,7 +86,7 @@ layout: page
 - Lecture: Finish hidden Markov models.
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 5 pm
   - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/)
+  - [Repository link](https://classroom.github.com/a/2II4BaXL)
 
 ### Week 8, Nov 14 – 18
 
@@ -103,11 +103,10 @@ layout: page
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
 - Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 8 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/)
+  - [Repository link](https://classroom.github.com/a/miYiiLF0)
 
 ### Week 10, Nov 27 – Dec 1
 
 - Lecture: Project presentations
 - Lab: Further project implementation
-- Final Project, due Dec 8 at noon ([submit through project Github repository](https://classroom.github.com/))
+- Final Project, due Dec 8 at noon ([submit through project Github repository](https://classroom.github.com/a/lC-t8NEe))

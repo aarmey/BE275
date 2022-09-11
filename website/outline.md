@@ -27,8 +27,7 @@ layout: page
 - [Lecture 3: Fitting & Regression Redux, Regularization](../public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 7 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/a/3LPFxns6)
+  - [Repository link](https://classroom.github.com/a/3LPFxns6)
 
 ### Week 2, Oct 3 – 7
 
@@ -37,8 +36,7 @@ layout: page
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf) ([Recording](https://youtu.be/Rh2SdM2_IIg))
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 13 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/a/QcUTUD2y)
+  - [Repository link](https://classroom.github.com/a/QcUTUD2y)
 
 ### Week 3, Oct 10 – 14
 
@@ -56,8 +54,7 @@ layout: page
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
 - [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf)
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 27 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/)
+  - [Repository link](https://classroom.github.com/a/e7aoa1hr)
 
 ### Week 5, Oct 24 – 28
 
@@ -77,15 +74,13 @@ layout: page
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
 - Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 10 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
-  - [Submission repository link](https://classroom.github.com/)
+  - [Repository link](https://classroom.github.com/a/I2ygrEAV)
 - [Final project proposals due Nov 4 at 5 pm](https://ccle.ucla.edu/mod/assign/view.php?id=4115441)
 
 ### Week 7, Nov 7 – 11
 
 - Lecture: Finish hidden Markov models.
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 5 pm
-  - [Starting notebook](https://github.com/aarmey/BE275/tree/main/homework)
   - [Repository link](https://classroom.github.com/a/2II4BaXL)
 
 ### Week 8, Nov 14 – 18

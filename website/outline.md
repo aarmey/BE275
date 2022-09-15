@@ -19,7 +19,7 @@ layout: page
 
 <!-- lecture 2 remote due to SIAM -->
 
-- [Lecture 2: Fitting & Regression](../public/Wk1-Lecture2.pdf)
+- [Lecture 2: Fitting & Regression](../public/Wk1-Lecture2.pdf) (Pre-recorded: [1](https://youtu.be/-lG53OEl1-s), [2](https://youtu.be/k0xUp8DPNIA))
   - [Example Notebook](../public/examples/OLS-Example.ipynb)
   - Listening: [Linear Digressions: The assumptions of ordinary least squares](https://lineardigressions.com/episodes/2019/1/12/the-assumptions-of-ordinary-least-squares)
   - Reading: [Points of Significance: Simple linear regression](https://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)

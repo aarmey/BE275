@@ -15,7 +15,7 @@ Teaching Assistant: Brian Orcutt-Jahns (<orcuttjahnsbrian@gmail.com>)
 
 Office Hours:
 
-- Prof. Meyer: Available at the end of lecture, by email (above), [on the CCLE forum](https://ccle.ucla.edu/mod/forum/view.php?id=3985819), or [by appointment on Zoom](https://calendly.com/asmlab/be-275-office-hours)
+- Prof. Meyer: Available at the end of lecture, by email (above), [on the class Slack](https://bioeml.slack.com), or [9–9:45 am Friday on Zoom](https://ucla.zoom.us/my/aarmey)
 - TA: By appointment
 
 Website: <https://aarmey.github.io/BE275/>

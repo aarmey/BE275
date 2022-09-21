@@ -13,7 +13,7 @@ author: Aaron Meyer
 ## Lab
 
 - Fridays, 2:00–3:50pm
-- Public Affairs Building 2238
+- Boelter Hall 4413
 
 <https://aarmey.github.io/BE275/>
 
@@ -34,12 +34,13 @@ author: Aaron Meyer
 
 ## Prof. Meyer
 
-- By appointment on Zoom: <https://calendly.com/asmlab/be-275-office-hours>
+- 9–9:45 am Friday: <https://ucla.zoom.us/my/aarmey>
 - I will usually also stick around after class and am happy to answer questions.
 
 ## TAs
 
-- TBD or by appointment
+- By appointment
+- Brian will have a regular time setup soon
 
 # Learning Goals:
 
@@ -81,7 +82,7 @@ By the end of the course you will learn how to:
 ## Where
 
 - Fridays, 2:00-3:50pm
-- Public Affairs Building 2238
+- Boelter Hall 4413
 
 ## What
 

@@ -8,7 +8,7 @@ BIOENGR 275: Machine learning & data-driven modeling in bioengineering
 
 Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
-Lecture: Boelter Hall 5273, Tuesdays/Thursdays, 2:00 – 3:50pm  
+Lecture: Boelter Hall 5273, Tuesdays/Thursdays, 2:00 – 3:50 pm  
 Lab Section: Boelter Hall 4413, Fridays, 2:00 – 3:50 pm
 
 Teaching Assistant: Brian Orcutt-Jahns (<orcuttjahnsbrian@gmail.com>)
@@ -16,7 +16,7 @@ Teaching Assistant: Brian Orcutt-Jahns (<orcuttjahnsbrian@gmail.com>)
 Office Hours:
 
 - Prof. Meyer: Available at the end of lecture, by email (above), [on the class Slack](https://bioeml.slack.com), or [9–9:45 am Friday on Zoom](https://ucla.zoom.us/my/aarmey)
-- TA: By appointment
+- TA: Engineering V 5129, Wednesdays, 12 – 2 pm
 
 Website: <https://aarmey.github.io/BE275/>
 

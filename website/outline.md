@@ -33,7 +33,7 @@ layout: page
 - [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](../public/Wk2-Lecture4.pdf)
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
-- [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf) ([Recording](https://youtu.be/Rh2SdM2_IIg))
+- [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 13 at 5 pm
   - [Repository link](https://classroom.github.com/a/ot_ZCaiY)
 

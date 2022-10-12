@@ -34,7 +34,7 @@ layout: page
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf)
-- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 13 at 11:59 pm
+- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/ot_ZCaiY)
 
 ### Week 3, Oct 10 – 14
@@ -51,7 +51,7 @@ layout: page
 <!-- lecture 9 remote due to SACB -->
 
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
-- [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf)
+- [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf) (Pre-recorded: [1](https://youtu.be/Vzh3qAsBLBo), [2](https://youtu.be/QC32PvWk418))
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 27 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/e7aoa1hr)
 

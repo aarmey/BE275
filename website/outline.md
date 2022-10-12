@@ -34,7 +34,7 @@ layout: page
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf)
-- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 13 at 5 pm
+- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 13 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/ot_ZCaiY)
 
 ### Week 3, Oct 10 – 14
@@ -52,7 +52,7 @@ layout: page
 
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
 - [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf)
-- Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 27 at 5 pm
+- Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 27 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/e7aoa1hr)
 
 ### Week 5, Oct 24 – 28
@@ -72,14 +72,14 @@ layout: page
   - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
-- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 10 at 5 pm
+- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 10 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/I2ygrEAV)
 - [Final project proposals due Nov 4 at 5 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
 
 ### Week 7, Nov 7 – 11
 
 - Lecture: Finish hidden Markov models.
-- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 5 pm
+- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/2II4BaXL)
 
 ### Week 8, Nov 14 – 18
@@ -96,7 +96,7 @@ layout: page
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
-- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 8 at 5 pm
+- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 8 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/miYiiLF0)
 
 ### Week 10, Nov 27 – Dec 1

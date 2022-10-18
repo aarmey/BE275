@@ -52,13 +52,12 @@ layout: page
 
 - [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
 - [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf) (Pre-recorded: [1](https://youtu.be/Vzh3qAsBLBo), [2](https://youtu.be/QC32PvWk418))
-- Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 27 at 11:59 pm
+- Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Nov 6 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/e7aoa1hr)
 
 ### Week 5, Oct 24 – 28
 
-- Lecture 10: Finish dynamical models
-  - Guest presentation: Dynamical models of the cell cycle
+- Lecture 10: Finish partial least squares regression
 - Lecture 11: Midterm review (previous midterms: [W18](../files/midterm-W18.pdf), [W19](../files/midterm-W19.pdf), [W20](../files/midterm-W20.pdf))
 - Lab: Midterm review, finish selecting project
 

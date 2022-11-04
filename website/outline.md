@@ -73,7 +73,7 @@ layout: page
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
 - Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 10 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/I2ygrEAV)
-- [Final project proposals due Nov 4 at 5 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
+- [Final project proposals due Nov 4 at 11:59 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
 
 ### Week 7, Nov 7 – 11
 

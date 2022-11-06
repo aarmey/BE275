@@ -64,7 +64,7 @@ layout: page
 ### Week 6, Oct 31 – Nov 4
 
 - Lecture 12: Midterm exam
-- [Lecture: Hidden Markov Models](../public/Wk5-Lecture10.pdf)
+- [Lecture 13: Hidden Markov Models](../public/Wk5-Lecture10.pdf)
   - [Example Notebook](../public/examples/HMMs-example.ipynb)
   - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
   - Reading: [Markov Models—Markov chains](https://www.nature.com/articles/s41592-019-0476-x)
@@ -77,24 +77,24 @@ layout: page
 
 ### Week 7, Nov 7 – 11
 
-- Lecture: Finish hidden Markov models.
+- Lecture 14: Finish hidden Markov models, midterm review.
+- [Lecture 15: K-Means Clustering](../public/Wk7-Lecture13.pdf)
+  - [Example Notebook](../public/examples/K-Means.ipynb)
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/2II4BaXL)
 
 ### Week 8, Nov 14 – 18
 
-- [Lecture 13: K-Means Clustering](../public/Wk7-Lecture13.pdf)
-  - [Example Notebook](../public/examples/K-Means.ipynb)
-- [Lecture 14: Gaussian Mixture Models](../public/Wk7-Lecture14.pdf)
+- [Lecture 16: Gaussian Mixture Models](../public/Wk7-Lecture14.pdf)
   - [Example Notebook](../public/examples/Gaussian-Mixtures.ipynb)
-  - Guest presentation: Using sequence information to improve clustering
-
-### Week 9, Nov 21 – 25
-
-- [Lecture 16: Support vector machines](../public/Wk8-Lecture16.pdf)
+- [Lecture 17: Support vector machines](../public/Wk8-Lecture16.pdf)
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
+
+### Week 9, Nov 21 – 25
+
+- Lecture 18: Finish support vector machines, deep learning models, meta discussion.
 - Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 8 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/miYiiLF0)
 

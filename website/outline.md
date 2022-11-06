@@ -80,7 +80,7 @@ layout: page
 - Lecture 14: Finish hidden Markov models, midterm review.
 - [Lecture 15: K-Means Clustering](../public/Wk7-Lecture13.pdf)
   - [Example Notebook](../public/examples/K-Means.ipynb)
-- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 17 at 11:59 pm
+- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 24 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/2II4BaXL)
 
 ### Week 8, Nov 14 – 18

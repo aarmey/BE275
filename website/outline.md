@@ -71,7 +71,7 @@ layout: page
   - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
-- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 10 at 11:59 pm
+- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/I2ygrEAV)
 - [Final project proposals due Nov 4 at 11:59 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
 

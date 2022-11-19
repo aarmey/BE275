@@ -10,7 +10,7 @@ layout: page
   - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
 
 - Lab: Programming and Git Primer, due Sept 29 at 5 pm
-  - [Repository link](https://classroom.github.com/a/3LPFxns6)
+  - Repository link
   - Listening: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
   - Listening: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 
@@ -26,7 +26,7 @@ layout: page
 - [Lecture 3: Fitting & Regression Redux, Regularization](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 7 at 5 pm
-  - [Repository link](https://classroom.github.com/a/QcUTUD2y)
+  - Repository link
 
 ### Week 2, Oct 3 – 7
 
@@ -35,7 +35,7 @@ layout: page
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture6.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/ot_ZCaiY)
+  - Repository link
 
 ### Week 3, Oct 10 – 14
 

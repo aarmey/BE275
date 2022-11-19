@@ -5,7 +5,7 @@ layout: page
 
 ### Week 0, Sept 19 – 23
 
-- [Lecture 1: Statistics review](../public/Wk1-Lecture1.pdf)
+- [Lecture 1: Statistics review](https://aarmey.github.io/ml-for-bioe/public/Wk1-Lecture1.pdf)
   - Reading: [Can a biologist fix a radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
   - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
 
@@ -18,30 +18,30 @@ layout: page
 
 <!-- lecture 2 remote due to SIAM -->
 
-- [Lecture 2: Fitting & Regression](../public/Wk1-Lecture2.pdf) (Pre-recorded: [1](https://youtu.be/-lG53OEl1-s), [2](https://youtu.be/k0xUp8DPNIA))
+- [Lecture 2: Fitting & Regression](https://aarmey.github.io/ml-for-bioe/public/Wk1-Lecture2.pdf) (Pre-recorded: [1](https://youtu.be/-lG53OEl1-s), [2](https://youtu.be/k0xUp8DPNIA))
   - [Example Notebook](../public/examples/OLS-Example.ipynb)
   - Listening: [Linear Digressions: The assumptions of ordinary least squares](https://lineardigressions.com/episodes/2019/1/12/the-assumptions-of-ordinary-least-squares)
   - Reading: [Points of Significance: Simple linear regression](https://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html)
   - Listening: [Linear Digressions: Convex (and non-convex) optimization](https://lineardigressions.com/episodes/2018/12/16/convex-and-non-convex-optimization)
-- [Lecture 3: Fitting & Regression Redux, Regularization](../public/Wk2-Lecture3.pdf)
+- [Lecture 3: Fitting & Regression Redux, Regularization](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 7 at 5 pm
   - [Repository link](https://classroom.github.com/a/QcUTUD2y)
 
 ### Week 2, Oct 3 – 7
 
-- [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](../public/Wk2-Lecture4.pdf)
+- [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture4.pdf)
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
-- [Lecture 6: Reproducible computational workflows](../public/Wk3-Lecture6.pdf)
+- [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture6.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/ot_ZCaiY)
 
 ### Week 3, Oct 10 – 14
 
-- [Lecture 5: Bayesian vs. frequentist approaches](../public/Wk3-Lecture5.pdf)
+- [Lecture 5: Bayesian vs. frequentist approaches](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture5.pdf)
   - [Linear Digressions: Beware of simple metrics](https://lineardigressions.com/episodes/2019/12/22/data-scientists-beware-of-simple-metrics)
-- [Lecture 7: Dimensionality reduction - PCA and NMF](../public/Wk4-Lecture7.pdf)
+- [Lecture 7: Dimensionality reduction - PCA and NMF](https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture7.pdf)
   - [Example Notebook](../public/examples/PCA-NNMF.ipynb)
   - For a visual refresh of some linear algebra [look here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - Reading: [Points of Significance: Principal Components Analysis](https://www.nature.com/articles/nmeth.4346)
@@ -50,8 +50,8 @@ layout: page
 
 <!-- lecture 9 remote due to SACB -->
 
-- [Lecture 8: Partial Least Squares Regression](../public/Wk4-Lecture8.pdf)
-- [Lecture 9: Dynamical models](../public/Wk5-Lecture09.pdf) (Pre-recorded: [1](https://youtu.be/Vzh3qAsBLBo), [2](https://youtu.be/QC32PvWk418))
+- [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture8.pdf)
+- [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture09.pdf) (Pre-recorded: [1](https://youtu.be/Vzh3qAsBLBo), [2](https://youtu.be/QC32PvWk418))
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Nov 6 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/e7aoa1hr)
 
@@ -64,7 +64,7 @@ layout: page
 ### Week 6, Oct 31 – Nov 4
 
 - Lecture 12: Midterm exam
-- [Lecture 13: Hidden Markov Models](../public/Wk5-Lecture10.pdf)
+- [Lecture 13: Hidden Markov Models](https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture10.pdf)
   - [Example Notebook](../public/examples/HMMs-example.ipynb)
   - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
   - Reading: [Markov Models—Markov chains](https://www.nature.com/articles/s41592-019-0476-x)
@@ -78,7 +78,7 @@ layout: page
 ### Week 7, Nov 7 – 11
 
 - Lecture 14: Finish hidden Markov models, midterm review.
-- [Lecture 15: K-Means Clustering](../public/Wk7-Lecture13.pdf)
+- [Lecture 15: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture13.pdf)
   - [Example Notebook](../public/examples/K-Means.ipynb)
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 24 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/2II4BaXL)

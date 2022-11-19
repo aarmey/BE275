@@ -85,9 +85,9 @@ layout: page
 
 ### Week 8, Nov 14 – 18
 
-- [Lecture 16: Gaussian Mixture Models](../public/Wk7-Lecture14.pdf)
+- [Lecture 16: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture14.pdf)
   - [Example Notebook](../public/examples/Gaussian-Mixtures.ipynb)
-- [Lecture 17: Support vector machines](../public/Wk8-Lecture16.pdf)
+- [Lecture 17: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/Wk8-Lecture16.pdf)
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)

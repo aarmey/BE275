@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Final Project Guidelines &middot; Bioengr 275
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/BE275/public/css/poole.css">
+  <link rel="stylesheet" href="/BE275/public/css/syntax.css">
+  <link rel="stylesheet" href="/BE275/public/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/BE275/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/BE275/public/favicon.ico">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/BE275/">
+          Bioengr 275
+        </a>
+      </h1>
+      <p class="lead">Machine learning & data-driven modeling in bioengineering</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/BE275/">Home</a>
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="/BE275///final-project/">Final Project Guidelines</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///">Syllabus - Fall 2022</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///outline/">Course outline</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///packages/">Packages / Resources</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///review-qs/">Review questions</a>
+          
+        
+      
+
+      <a class="sidebar-nav-item" href="https://github.com/aarmey/BE275">GitHub project</a>
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Final Project Guidelines</h1>
+  <h2 id="choosing-a-topic">Choosing A Topic</h2>
+
+<p>In this project, you have two options for the general route you can take:</p>
+
+<ol>
+  <li>As a first option, you may select a bioengineering paper that implements a computational analysis we have learned about from the literature. You will reimplement this analysis with thorough testing and documentation. In your final report, you should include a discussion about any elements that presented a challenge during your reimplementation, or discrepancies you found. Lastly, you should identify a creative extension of the analysis and implement it.</li>
+  <li>Alternatively, you may identify a dataset and corresponding analysis that has not yet been performed. This can be more exploratory in nature. You will implement this analysis with testing and documentation. In your final report, you should discuss whether/how the type of data influenced the analysis that was possible, the findings and limitations of your analysis, and what might be ways to validate your findings.</li>
+</ol>
+
+<p>Here are a few ideas. These may serve as an examples, or you are also welcome to adopt one of these:</p>
+
+<ul>
+  <li>Reimplement some of the analysis of SARS-CoV-2 antibody effectiveness in <a href="https://doi.org/10.1016/j.cell.2020.10.052">Zohar et al</a> or <a href="https://www.science.org/doi/10.1126/sciimmunol.abj2901">Kaplonek et al</a>.</li>
+  <li>Explore <a href="https://doi.org/10.1038/s41586-021-03631-y">Wang et al</a> or <a href="https://doi.org/10.1101/2021.01.27.21250559">Chang et al</a> for patterns within COVID-19-induced autoantibodies.</li>
+  <li>Many interesting datasets are listed in the <a href="https://archive.ics.uci.edu/ml/">UC Irvine Machine Learning Repository</a>.</li>
+  <li>Machine learning competitions, such as the <a href="https://dreamchallenges.org">DREAM Challenges</a>, <a href="https://www.kaggle.com">Kaggle</a>, and <a href="https://www.drivendata.org">DrivenData</a>, may have relevant challenges and pre-assembled datasets.</li>
+  <li>You are welcome to use a dataset from your own research. There is no problem keeping the data confidential, and this does not create any issues related to authorship. If you chose to do so, you should chose a new analysis approach that has not yet been performed.</li>
+</ul>
+
+<p>There are no restrictions on the programming language or packages you use. You may work alone or as a pair on the project. If in a team, your proposal, final project, and final presentation should cover how the project was divided.</p>
+
+<h2 id="proposal">Proposal</h2>
+
+<p>The proposal should be one page and describe the following items:</p>
+
+<ul>
+  <li>Why the topic you chose is interesting</li>
+  <li>Demonstrate that your project fits the criteria above</li>
+  <li>What overall approach do you plan to take for the project and why</li>
+  <li>Demonstrate that your project can be finished within a month</li>
+  <li>Estimate the difficulty of your project</li>
+  <li>Describe the expected outcomes of your analysis</li>
+</ul>
+
+<p><strong>We are available to discuss your ideas whenever you are ready, and you should discuss your idea with us prior to submitting your proposal.</strong> By the time you submit your proposal you should ensure that you have access to the requisite data. We are happy to help you with this.</p>
+
+<h2 id="final-report">Final Report</h2>
+
+<p>Your final report should be less than 1500 words and describe the following items:</p>
+
+<ul>
+  <li>Introduction/Motivation:
+    <ul>
+      <li>Why the topic you choose is interesting</li>
+      <li>Whether similar work has been done by others (novelty will not affect your grade, but it is always good to know if other people are doing the same thing)</li>
+    </ul>
+  </li>
+  <li>Problem definition
+    <ul>
+      <li>How to formulate your topic/question into a data analytics problem</li>
+      <li>How does it relate to a broader biomedical challenge</li>
+    </ul>
+  </li>
+  <li>Methods
+    <ul>
+      <li>Description of the algorithm you employed or designed</li>
+      <li>The software package you chose or your own implementation of the algorithm</li>
+      <li>How to use the software package or your own code</li>
+      <li>(Optional) Charting and/or visualization that help make decisions in your analysis</li>
+    </ul>
+  </li>
+  <li>Results
+    <ul>
+      <li>Quantitative evaluation of your method</li>
+      <li>Charting and/or visualization of your results</li>
+      <li>How your proposed approach has solved your question</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Your analysis code should accompany your final report in the git repository.</p>
+
+<h2 id="final-presentation">Final Presentation</h2>
+
+<p>Each presentation will have 8 minutes:</p>
+<ul>
+  <li>6 minutes for a presentation</li>
+  <li>2 minutes for questions, discussion, and transition to the next presenter</li>
+</ul>
+
+<p>Each team should prepare no more than 7 slides, including the title slide, and cover the sections listed in the final report.</p>
+
+<h2 id="grading">Grading</h2>
+
+<p>Your project will be evaluated</p>
+
+<ul>
+  <li>Proposal (15%)</li>
+  <li>Final Report (40%)</li>
+  <li>Final Presentation (15%)</li>
+  <li>Code and Implementation (30%)</li>
+</ul>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

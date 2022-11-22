@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Course outline &middot; Bioengr 275
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/BE275/public/css/poole.css">
+  <link rel="stylesheet" href="/BE275/public/css/syntax.css">
+  <link rel="stylesheet" href="/BE275/public/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/BE275/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/BE275/public/favicon.ico">
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/BE275/">
+          Bioengr 275
+        </a>
+      </h1>
+      <p class="lead">Machine learning & data-driven modeling in bioengineering</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/BE275/">Home</a>
+
+      
+      
+        
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///final-project/">Final Project Guidelines</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///">Syllabus - Fall 2022</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item active" href="/BE275///outline/">Course outline</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///packages/">Packages / Resources</a>
+          
+        
+      
+        
+          
+            <a class="sidebar-nav-item" href="/BE275///review-qs/">Review questions</a>
+          
+        
+      
+
+      <a class="sidebar-nav-item" href="https://github.com/aarmey/BE275">GitHub project</a>
+    </nav>
+  </div>
+</div>
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Course outline</h1>
+  <h3 id="week-0-sept-19--23">Week 0, Sept 19 – 23</h3>
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk1-Lecture1.pdf">Lecture 1: Statistics review</a>
+    <ul>
+      <li>Reading: <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2">Can a biologist fix a radio?</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem">Linear Digressions: The Normal Distribution and the Central Limit Theorem</a></li>
+    </ul>
+  </li>
+  <li>Lab: Programming and Git Primer, due Sept 29 at 5 pm
+    <ul>
+      <li>Repository link</li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend">Linear Digressions: Jupyter Notebooks, A Data Scientist’s Best Friend</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists">Linear Digressions: Git for Data Scientists</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-1-sept-26--30">Week 1, Sept 26 – 30</h3>
+
+<!-- lecture 2 remote due to SIAM -->
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk1-Lecture2.pdf">Lecture 2: Fitting &amp; Regression</a> (Pre-recorded: <a href="https://youtu.be/-lG53OEl1-s">1</a>, <a href="https://youtu.be/k0xUp8DPNIA">2</a>)
+    <ul>
+      <li><a href="../public/examples/OLS-Example.ipynb">Example Notebook</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2019/1/12/the-assumptions-of-ordinary-least-squares">Linear Digressions: The assumptions of ordinary least squares</a></li>
+      <li>Reading: <a href="https://www.nature.com/nmeth/journal/v12/n11/full/nmeth.3627.html">Points of Significance: Simple linear regression</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2018/12/16/convex-and-non-convex-optimization">Linear Digressions: Convex (and non-convex) optimization</a></li>
+    </ul>
+  </li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture3.pdf">Lecture 3: Fitting &amp; Regression Redux, Regularization</a>
+    <ul>
+      <li><a href="../public/examples/Regularization-Example.ipynb">Example Notebook</a></li>
+    </ul>
+  </li>
+  <li>Lab: Implementation of <a href="https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html">Shaffer et al.</a>, due Oct 7 at 5 pm
+    <ul>
+      <li>Repository link</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-2-oct-3--7">Week 2, Oct 3 – 7</h3>
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture4.pdf">Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends</a>
+    <ul>
+      <li><a href="../public/examples/CrossVal-Example.ipynb">Example Notebook</a></li>
+    </ul>
+  </li>
+  <li>Reading: <a href="https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html">Points of Significance: Regression Diagnostics</a></li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture6.pdf">Lecture 6: Reproducible computational workflows</a></li>
+  <li>Lab: Implementation of <a href="https://doi.org/10.1016/j.cels.2018.05.018">Robinett et al.</a>, due Oct 17 at 11:59 pm
+    <ul>
+      <li>Repository link</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-3-oct-10--14">Week 3, Oct 10 – 14</h3>
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture5.pdf">Lecture 5: Bayesian vs. frequentist approaches</a>
+    <ul>
+      <li><a href="https://lineardigressions.com/episodes/2019/12/22/data-scientists-beware-of-simple-metrics">Linear Digressions: Beware of simple metrics</a></li>
+    </ul>
+  </li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture7.pdf">Lecture 7: Dimensionality reduction - PCA and NMF</a>
+    <ul>
+      <li><a href="../public/examples/PCA-NNMF.ipynb">Example Notebook</a></li>
+      <li>For a visual refresh of some linear algebra <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab">look here</a></li>
+      <li>Reading: <a href="https://www.nature.com/articles/nmeth.4346">Points of Significance: Principal Components Analysis</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-4-oct-17--21">Week 4, Oct 17 – 21</h3>
+
+<!-- lecture 9 remote due to SACB -->
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture8.pdf">Lecture 8: Partial Least Squares Regression</a></li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture09.pdf">Lecture 9: Dynamical models</a> (Pre-recorded: <a href="https://youtu.be/Vzh3qAsBLBo">1</a>, <a href="https://youtu.be/QC32PvWk418">2</a>)</li>
+  <li>Lab: Implementation of <a href="https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c">Cosgrove et al.</a>, due Nov 6 at 11:59 pm
+    <ul>
+      <li><a href="https://classroom.github.com/a/e7aoa1hr">Repository link</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-5-oct-24--28">Week 5, Oct 24 – 28</h3>
+
+<ul>
+  <li>Lecture 10: Finish partial least squares regression</li>
+  <li>Lecture 11: Midterm review (previous midterms: <a href="../files/midterm-W18.pdf">W18</a>, <a href="../files/midterm-W19.pdf">W19</a>, <a href="../files/midterm-W20.pdf">W20</a>)</li>
+  <li>Lab: Midterm review, finish selecting project</li>
+</ul>
+
+<h3 id="week-6-oct-31--nov-4">Week 6, Oct 31 – Nov 4</h3>
+
+<ul>
+  <li>Lecture 12: Midterm exam</li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture10.pdf">Lecture 13: Hidden Markov Models</a>
+    <ul>
+      <li><a href="../public/examples/HMMs-example.ipynb">Example Notebook</a></li>
+      <li>Reading: <a href="https://www.nature.com/articles/nbt1004-1315">What is a hidden Markov model?</a></li>
+      <li>Reading: <a href="https://www.nature.com/articles/s41592-019-0476-x">Markov Models—Markov chains</a></li>
+      <li>Reading: <a href="https://www.nature.com/articles/s41592-019-0532-6">Markov Models—Hidden Markov models</a></li>
+      <li>Reading: <a href="https://www.nature.com/articles/s41592-019-0702-6">Markov models—Training and evaluation of hidden Markov models</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1">Linear Digressions - Hidden Markov Models</a> (<a href="https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2">part 2</a>)</li>
+    </ul>
+  </li>
+  <li>Lab: Implementation of <a href="https://www.science.org/doi/10.1126/science.271.5255.1582">Perelson et al.</a>, due Nov 17 at 11:59 pm
+    <ul>
+      <li><a href="https://classroom.github.com/a/I2ygrEAV">Repository link</a></li>
+    </ul>
+  </li>
+  <li><a href="https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857">Final project proposals due Nov 4 at 11:59 pm</a></li>
+</ul>
+
+<h3 id="week-7-nov-7--11">Week 7, Nov 7 – 11</h3>
+
+<ul>
+  <li>Lecture 14: Finish hidden Markov models, midterm review.</li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture13.pdf">Lecture 15: K-Means Clustering</a>
+    <ul>
+      <li><a href="../public/examples/K-Means.ipynb">Example Notebook</a></li>
+    </ul>
+  </li>
+  <li>Lab: Implementation of HMMs for heart rate monitor wearable, due Dec 1 at 11:59 pm
+    <ul>
+      <li><a href="https://classroom.github.com/a/2II4BaXL">Repository link</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-8-nov-14--18">Week 8, Nov 14 – 18</h3>
+
+<ul>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture14.pdf">Lecture 16: Gaussian Mixture Models</a>
+    <ul>
+      <li><a href="../public/examples/Gaussian-Mixtures.ipynb">Example Notebook</a></li>
+    </ul>
+  </li>
+  <li><a href="https://aarmey.github.io/ml-for-bioe/public/Wk8-Lecture16.pdf">Lecture 17: Support vector machines</a>
+    <ul>
+      <li><a href="../public/examples/SVMs-example.ipynb">Example Notebook</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers">Linear Digressions: Maximal Margin Classifiers</a></li>
+      <li>Listening: <a href="https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines">Linear Digressions: The Kernel Trick and Support Vector Machines</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-9-nov-21--25">Week 9, Nov 21 – 25</h3>
+
+<ul>
+  <li>Lecture 18: Finish support vector machines, deep learning models, meta discussion.</li>
+  <li>Lab: Implementation of <a href="https://www.nature.com/articles/srep37863">Masaeli et al.</a>, due Dec 8 at 11:59 pm
+    <ul>
+      <li><a href="https://classroom.github.com/a/miYiiLF0">Repository link</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="week-10-nov-27--dec-1">Week 10, Nov 27 – Dec 1</h3>
+
+<ul>
+  <li>Lecture: Project presentations</li>
+  <li>Lab: Further project implementation</li>
+  <li>Final Project, due Dec 8 at noon (<a href="https://classroom.github.com/a/lC-t8NEe">submit through project Github repository</a>)</li>
+</ul>
+
+</div>
+
+    </div>
+
+  </body>
+</html>

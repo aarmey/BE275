@@ -23,7 +23,7 @@ jobs:
     - name: Build products
       run: bundle exec jekyll build --source website --destination website/_site
     - name: Proof HTML
-      run: bundle exec htmlproofer --ignore_urls "/BE275/" --ignore_status_codes "412, 400, 403, 503" --assume-extension website/_site
+      run: bundle exec htmlproofer --ignore_urls "/BE275/" --ignore_status_codes "412, 400, 403, 503" --assume-extension . website/_site
     - name: Deploy 🚀
       uses: actions/upload-pages-artifact@v3
       if: github.ref == 'refs/heads/main'

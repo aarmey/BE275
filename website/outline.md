@@ -37,16 +37,16 @@ layout: page
 
 ### Week 3, Oct 14 – 18
 
-- [Lecture 5: Bayesian vs. frequentist approaches](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture5.pdf)
+- [Lecture 5: Bayesian vs. frequentist approaches](https://aarmey.github.io/ml-for-bioe/public/bayesian.pdf)
   - [Linear Digressions: Beware of simple metrics](https://lineardigressions.com/episodes/2019/12/22/data-scientists-beware-of-simple-metrics)
-- [Lecture 7: Dimensionality reduction - PCA and NMF](https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture7.pdf)
+- [Lecture 7: Dimensionality reduction - PCA and NMF](https://aarmey.github.io/ml-for-bioe/public/dimensionality-reduction.pdf)
   - [Example Notebook](../public/examples/PCA-NNMF.ipynb)
   - For a visual refresh of some linear algebra [look here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - Reading: [Points of Significance: Principal Components Analysis](https://www.nature.com/articles/nmeth.4346)
 
 ### Week 4, Oct 21 – 25
 
-- [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/Wk4-Lecture8.pdf)
+- [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/plsr.pdf)
 - [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture09.pdf)
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 31 at 11:59 pm
   - Repository link
@@ -74,7 +74,7 @@ layout: page
 ### Week 7, Nov 11 – 15
 
 - Lecture 14: Finish hidden Markov models, midterm review.
-- [Lecture 15: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture13.pdf)
+- [Lecture 15: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/clustering.pdf)
   - [Example Notebook](../public/examples/K-Means.ipynb)
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 28 at 11:59 pm
   - Repository link

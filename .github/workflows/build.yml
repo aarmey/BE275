@@ -29,6 +29,6 @@ jobs:
       with:
         path: website/_site
     - name: Deploy 🚀
-      if: github.ref == 'refs/heads/master'
+      if: github.ref == 'refs/heads/main'
       id: deployment
       uses: actions/deploy-pages@v2

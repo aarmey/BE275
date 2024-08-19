@@ -47,7 +47,7 @@ layout: page
 ### Week 4, Oct 21 – 25
 
 - [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/plsr.pdf)
-- [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture09.pdf)
+- [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/dynamics.pdf)
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 31 at 11:59 pm
   - Repository link
 
@@ -60,7 +60,7 @@ layout: page
 ### Week 6, Nov 4 – Nov 8
 
 - Lecture 12: Midterm exam
-- [Lecture 13: Hidden Markov Models](https://aarmey.github.io/ml-for-bioe/public/Wk5-Lecture10.pdf)
+- [Lecture 13: Hidden Markov Models](https://aarmey.github.io/ml-for-bioe/public/hmm.pdf)
   - [Example Notebook](../public/examples/HMMs-example.ipynb)
   - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
   - Reading: [Markov Models—Markov chains](https://www.nature.com/articles/s41592-019-0476-x)
@@ -81,9 +81,9 @@ layout: page
 
 ### Week 8, Nov 18 – 22
 
-- [Lecture 16: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/Wk7-Lecture14.pdf)
+- [Lecture 16: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/gmms.pdf)
   - [Example Notebook](../public/examples/Gaussian-Mixtures.ipynb)
-- [Lecture 17: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/Wk8-Lecture16.pdf)
+- [Lecture 17: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/svms.pdf)
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)

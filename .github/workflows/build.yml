@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
 
     # Build products
     - name: Build products
@@ -24,14 +24,12 @@ jobs:
     - name: Proof HTML
       run: cd website/_site && bundle exec htmlproofer --ignore_urls "/BE275/" --ignore_status_codes "412, 400, 503" --assume-extension .
     - name: Upload lecture notes
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: lectures
         path: lectures/*.pdf
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@4.1.5
+      uses: actions/upload-pages-artifact@v3
       if: github.ref == 'refs/heads/main'
       with:
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: website/_site # The folder the action should deploy.
-        single-commit: true
+        path: website/_site

@@ -9,6 +9,9 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-22.04
 
+    env: # $BUNDLE_GEMFILE must be set at the job level, so it is set for all steps
+      BUNDLE_GEMFILE: website/Gemfile
+
     steps:
     - uses: actions/checkout@v4
 

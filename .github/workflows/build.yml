@@ -21,10 +21,9 @@ jobs:
         ruby-version: '3.3' # Not needed with a `.ruby-version` or `.tool-versions`
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - name: Build products
-      run: |
-        cd website && bundle exec jekyll build
+      run: bundle exec jekyll build --source website --destination website/_site
     - name: Proof HTML
-      run: cd website/_site && bundle exec htmlproofer --ignore_urls "/BE275/" --ignore_status_codes "412, 400, 403, 503" --assume-extension .
+      run: bundle exec htmlproofer --ignore_urls "/BE275/" --ignore_status_codes "412, 400, 403, 503" --assume-extension website/_site
     - name: Deploy 🚀
       uses: actions/upload-pages-artifact@v3
       if: github.ref == 'refs/heads/main'

@@ -10,7 +10,7 @@ layout: page
   - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
 
 - Lab: Programming and Git Primer, due Oct 3 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/zVi0Ih1o)
   - Listening: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
   - Listening: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 
@@ -24,7 +24,7 @@ layout: page
 - [Lecture 3: Fitting & Regression Redux, Regularization](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 10 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/EP9p26-u)
 
 ### Week 2, Oct 7 – 11
 
@@ -33,7 +33,7 @@ layout: page
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture6.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/k50TOMBs)
 
 ### Week 3, Oct 14 – 18
 
@@ -49,7 +49,7 @@ layout: page
 - [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/plsr.pdf)
 - [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/dynamics.pdf)
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 31 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/mgXx6Ml_)
 
 ### Week 5, Oct 28 – Nov 1
 

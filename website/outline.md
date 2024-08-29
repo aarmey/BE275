@@ -68,7 +68,7 @@ layout: page
   - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
   - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
 - Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 21 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/7hqH3A8l)
 - [Final project proposals due Nov 7 at 11:59 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
 
 ### Week 7, Nov 11 – 15
@@ -92,7 +92,7 @@ layout: page
 
 - Lecture 18: Finish support vector machines, deep learning models, meta discussion.
 - Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 12 at 11:59 pm
-  - Repository link
+  - [Repository link](https://classroom.github.com/a/dzTdyGBq)
 
 ### Week 10, Dec 2 – Dec 6
 

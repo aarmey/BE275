@@ -6,13 +6,15 @@ layout: page
 ### Week 0, Sept 23 – 27
 
 - [Lecture 1: Statistics review](https://aarmey.github.io/ml-for-bioe/public/Wk1-Lecture1.pdf) (pre-recorded)
-  - Reading: [Can a biologist fix a radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
-  - Listening: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
+  - 📖: [Can a biologist fix a radio?](https://www.cell.com/cancer-cell/fulltext/S1535-6108(02)00133-2)
+  - 👂: [Linear Digressions: The Normal Distribution and the Central Limit Theorem](https://lineardigressions.com/episodes/2018/12/9/the-normal-distribution-and-the-central-limit-theorem)
+  - 📺: [But what is the Central Limit Theorem?](https://www.youtube.com/watch?v=zeJD6dqJ5lo)
+  - 📖: [Understanding Moments](https://gregorygundersen.com/blog/2020/04/11/moments/)
 
 - Lab: Programming and Git Primer, due Oct 3 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/zVi0Ih1o)
-  - Listening: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
-  - Listening: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
+  - 👂: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
+  - 👂: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 
 ### Week 1, Sept 30 – Oct 4
 
@@ -31,7 +33,7 @@ layout: page
 - [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture4.pdf)
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
-- [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/Wk3-Lecture6.pdf)
+- [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/reproducibility.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/k50TOMBs)
 

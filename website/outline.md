@@ -33,13 +33,13 @@ layout: page
 - [Lecture 4: Does my model work? Crossvalidation, bootstrap, and friends](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture4.pdf)
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
-- [Lecture 6: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/reproducibility.pdf)
+- [Lecture 5: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/reproducibility.pdf)
 - Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/k50TOMBs)
 
 ### Week 3, Oct 14 – 18
 
-- [Lecture 5: Bayesian vs. frequentist approaches](https://aarmey.github.io/ml-for-bioe/public/bayesian.pdf)
+- [Lecture 6: Bayesian vs. frequentist approaches](https://aarmey.github.io/ml-for-bioe/public/bayesian.pdf)
   - [Linear Digressions: Beware of simple metrics](https://lineardigressions.com/episodes/2019/12/22/data-scientists-beware-of-simple-metrics)
 - [Lecture 7: Dimensionality reduction - PCA and NMF](https://aarmey.github.io/ml-for-bioe/public/dimensionality-reduction.pdf)
   - [Example Notebook](../public/examples/PCA-NNMF.ipynb)
@@ -55,7 +55,7 @@ layout: page
 
 ### Week 5, Oct 28 – Nov 1
 
-- Lecture 10: Finish partial least squares regression
+- Lecture 10: Finish dynamical models, midterm review
 - Lecture 11: Midterm review (previous midterms: [W18](../files/midterm-W18.pdf), [W19](../files/midterm-W19.pdf), [W20](../files/midterm-W20.pdf))
 - Lab: Midterm review, finish selecting project
 
@@ -75,7 +75,7 @@ layout: page
 
 ### Week 7, Nov 11 – 15
 
-- Lecture 14: Finish hidden Markov models, midterm review.
+- Lecture 14: Finish hidden Markov models.
 - [Lecture 15: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/clustering.pdf)
   - [Example Notebook](../public/examples/K-Means.ipynb)
 - Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 28 at 11:59 pm

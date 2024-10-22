@@ -84,6 +84,7 @@ layout: page
 ### Week 8, Nov 18 – 22
 
 - [Lecture 16: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/gmms.pdf)
+  - [Understanding Gaussians](https://gestalt.ink/gaussians)
   - [Example Notebook](../public/examples/Gaussian-Mixtures.ipynb)
 - [Lecture 17: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/svms.pdf)
   - [Example Notebook](../public/examples/SVMs-example.ipynb)

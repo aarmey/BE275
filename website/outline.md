@@ -12,7 +12,7 @@ layout: page
   - 📖: [Understanding Moments](https://gregorygundersen.com/blog/2020/04/11/moments/)
 
 - Lab: Programming and Git Primer, due Oct 3 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/zVi0Ih1o)
+  - Repository link
   - 👂: [Linear Digressions: Jupyter Notebooks, A Data Scientist's Best Friend](https://lineardigressions.com/episodes/2017/8/20/jupyter-notebooks-a-data-scientists-best-friend)
   - 👂: [Linear Digressions: Git for Data Scientists](https://lineardigressions.com/episodes/2018/6/3/git-for-data-scientists)
 
@@ -26,7 +26,7 @@ layout: page
 - [Lecture 3: Fitting & Regression Redux, Regularization](https://aarmey.github.io/ml-for-bioe/public/Wk2-Lecture3.pdf)
   - [Example Notebook](../public/examples/Regularization-Example.ipynb)
 - Lab: Implementation of [Shaffer et al.](https://www.nature.com/nature/journal/v546/n7658/abs/nature22794.html), due Oct 10 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/EP9p26-u)
+  - Repository link
 
 ### Week 2, Oct 7 – 11
 
@@ -34,8 +34,8 @@ layout: page
   - [Example Notebook](../public/examples/CrossVal-Example.ipynb)
 - Reading: [Points of Significance: Regression Diagnostics](https://www.nature.com/nmeth/journal/v13/n5/abs/nmeth.3854.html)
 - [Lecture 5: Reproducible computational workflows](https://aarmey.github.io/ml-for-bioe/public/reproducibility.pdf)
-- Lab: Implementation of [Robinett et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/k50TOMBs)
+- Lab: Implementation of [Stone et al.](https://doi.org/10.1016/j.cels.2018.05.018), due Oct 17 at 11:59 pm
+  - Repository link
 
 ### Week 3, Oct 14 – 18
 

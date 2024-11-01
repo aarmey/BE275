@@ -62,38 +62,31 @@ layout: page
 ### Week 6, Nov 4 – Nov 8
 
 - Lecture 12: Midterm exam
-- [Lecture 13: Hidden Markov Models](https://aarmey.github.io/ml-for-bioe/public/hmm.pdf)
-  - [Example Notebook](../public/examples/HMMs-example.ipynb)
-  - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
-  - Reading: [Markov Models—Markov chains](https://www.nature.com/articles/s41592-019-0476-x)
-  - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
-  - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
-  - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))
+- [Lecture 13: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/clustering.pdf)
+  - [Example Notebook](../public/examples/K-Means.ipynb)
 - Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 21 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/7hqH3A8l)
 - [Final project proposals due Nov 7 at 11:59 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
 
 ### Week 7, Nov 11 – 15
 
-- Lecture 14: Finish hidden Markov models.
-- [Lecture 15: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/clustering.pdf)
-  - [Example Notebook](../public/examples/K-Means.ipynb)
-- Lab: Implementation of HMMs for heart rate monitor wearable, due Nov 28 at 11:59 pm
-  - Repository link
-
-### Week 8, Nov 18 – 22
-
-- [Lecture 16: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/gmms.pdf)
+- [Lecture 14: Gaussian Mixture Models](https://aarmey.github.io/ml-for-bioe/public/gmms.pdf)
   - [Understanding Gaussians](https://gestalt.ink/gaussians)
   - [Example Notebook](../public/examples/Gaussian-Mixtures.ipynb)
-- [Lecture 17: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/svms.pdf)
+- [Lecture 15: Support vector machines](https://aarmey.github.io/ml-for-bioe/public/svms.pdf)
   - [Example Notebook](../public/examples/SVMs-example.ipynb)
   - Listening: [Linear Digressions: Maximal Margin Classifiers](https://lineardigressions.com/episodes/2017/12/3/maximal-margin-classifiers)
   - Listening: [Linear Digressions: The Kernel Trick and Support Vector Machines](https://lineardigressions.com/episodes/2017/12/10/the-kernel-trick-and-support-vector-machines)
 
+
+### Week 8, Nov 18 – 22
+
+- Lecture 16: Finish support vector machines
+- Lecture 17: Building larger models, meta discussion
+
 ### Week 9, Nov 25 – 29
 
-- Lecture 18: Finish support vector machines, deep learning models, meta discussion.
+- Lecture 18: Building larger models, meta discussion
 - Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 12 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/dzTdyGBq)
 
@@ -102,3 +95,11 @@ layout: page
 - Lecture: Project presentations
 - Lab: Further project implementation
 - Final Project, due Dec 11 at 11:59 pm (submit through project Github repository)
+
+<!-- - [Lecture 13: Hidden Markov Models](https://aarmey.github.io/ml-for-bioe/public/hmm.pdf)
+  - [Example Notebook](../public/examples/HMMs-example.ipynb)
+  - Reading: [What is a hidden Markov model?](https://www.nature.com/articles/nbt1004-1315)
+  - Reading: [Markov Models—Markov chains](https://www.nature.com/articles/s41592-019-0476-x)
+  - Reading: [Markov Models—Hidden Markov models](https://www.nature.com/articles/s41592-019-0532-6)
+  - Reading: [Markov models—Training and evaluation of hidden Markov models](https://www.nature.com/articles/s41592-019-0702-6)
+  - Listening: [Linear Digressions - Hidden Markov Models](https://lineardigressions.com/episodes/2016/2/23/introducing-hidden-markov-models-hmm-part-1) ([part 2](https://lineardigressions.com/episodes/2016/2/23/genetics-and-um-detection-hmms-part-2))-->

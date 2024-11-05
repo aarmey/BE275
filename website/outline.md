@@ -51,7 +51,7 @@ layout: page
 - [Lecture 8: Partial Least Squares Regression](https://aarmey.github.io/ml-for-bioe/public/plsr.pdf)
 - [Lecture 9: Dynamical models](https://aarmey.github.io/ml-for-bioe/public/dynamics.pdf)
 - Lab: Implementation of [Cosgrove et al.](https://pubs.rsc.org/en/Content/ArticleLanding/2010/MB/b926287c), due Oct 31 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/mgXx6Ml_)
+  - Repository link
 
 ### Week 5, Oct 28 – Nov 1
 

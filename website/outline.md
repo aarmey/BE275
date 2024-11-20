@@ -85,12 +85,13 @@ layout: page
 
 - Lecture 16: Finish support vector machines
 - Lecture 17: Building larger models, meta discussion
+- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 12 at 11:59 pm
+  - [Repository link](https://classroom.github.com/a/dzTdyGBq)
 
 ### Week 9, Nov 25 – 29
 
 - Lecture 18: Building larger models, meta discussion
-- Lab: Implementation of [Masaeli et al.](https://www.nature.com/articles/srep37863), due Dec 12 at 11:59 pm
-  - [Repository link](https://classroom.github.com/a/dzTdyGBq)
+- No second lecture, lab session, or office hours due to Thanksgiving.
 
 ### Week 10, Dec 2 – Dec 6
 

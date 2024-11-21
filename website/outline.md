@@ -64,7 +64,7 @@ layout: page
 - Lecture 12: Midterm exam
 - [Lecture 13: K-Means Clustering](https://aarmey.github.io/ml-for-bioe/public/clustering.pdf)
   - [Example Notebook](../public/examples/K-Means.ipynb)
-- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 21 at 11:59 pm
+- Lab: Implementation of [Perelson et al.](https://www.science.org/doi/10.1126/science.271.5255.1582), due Nov 28 at 11:59 pm
   - [Repository link](https://classroom.github.com/a/7hqH3A8l)
 - [Final project proposals due Nov 7 at 11:59 pm](https://bruinlearn.ucla.edu/courses/139668/assignments/1247677?module_item_id=5340857)
   - [Link to set up final project repository](https://classroom.github.com/a/ZLlRq10u)

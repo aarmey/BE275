@@ -57,11 +57,11 @@ Your analysis code should accompany your final report in the git repository.
 
 ## Final Presentation
 
-Each presentation will have 8 minutes:
-- 6 minutes for a presentation
+Each presentation will have 14 minutes:
+- 12 minutes for a presentation
 - 2 minutes for questions, discussion, and transition to the next presenter
 
-Each team should prepare no more than 7 slides, including the title slide, and cover the sections listed in the final report.
+Each team should prepare no more than 12 slides, including the title slide, and cover the sections listed in the final report.
 
 ## Grading
 
